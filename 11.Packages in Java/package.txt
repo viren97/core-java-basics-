@@ -1,0 +1,4 @@
+PACKAGES IN JAVA:-
+classes and interface
+Built in package
+user definedd packages

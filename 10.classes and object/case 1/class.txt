@@ -1,0 +1,8 @@
+18/06/18
+CLASSES AND OBJECT
+access modifier;
+1. default
+2. public
+3. private
+4. protected
+
